@@ -1,4 +1,4 @@
-baseURL = "http://jakub.se/"
+baseURL = "https://jakub.se/"
 languageCode = "en-us"
 title = "My Awesome Hugo Site"
 theme = "jakubs-theme"
